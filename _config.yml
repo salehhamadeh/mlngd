@@ -5,8 +5,8 @@ description: "Life, the universe, and everything"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics: 'UA-143312047-1'
+mailchimp-list: 'https://mlngd.us3.list-manage.com/subscribe/post?u=50d97e645033af5c70a35c88a&amp;id=58afba32d2'
 include: ["_pages"]
 permalink: /:title/
 
