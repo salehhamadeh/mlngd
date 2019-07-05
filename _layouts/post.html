@@ -143,11 +143,11 @@ post_class: post-template
 <!-- Begin Comments
 ================================================== -->
 
-{% if page.comments != false %}
+{% if page.mediumurl != false %}
     <div class="container">
         <div id="comments" class="row justify-content-center mb-5">
             <div class="col-md-8">
-                <!-- TODO: Link Medium article -->
+                For comments and likes, <a href="{{ page.mediumurl }}" rel="nofollow" target="_blank">check out the post on Medium</a>.
             </div>
         </div>
     </div>
