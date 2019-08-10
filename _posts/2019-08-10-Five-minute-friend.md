@@ -5,7 +5,7 @@ author: saleh
 categories: [ Social Media, Relationships, Technology, Society, Mindfulness ]
 image: assets/images/five-minute-friend/2.png
 comments: false
-mediumurl: https://medium.com/@salehhamadeh/11d0035c43b4
+mediumurl: https://medium.com/millennials-guide/the-friend-you-only-spent-5-minutes-with-948ce73eae25
 showFeaturedImage: false
 ---
 You are at a coffee shop having a cup of hot latte with your friend Tim.
